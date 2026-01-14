@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on  building real-world projects and improving my problem-solving skills.<br>👯 I’m looking to collaborate on open-source projects and full-stack applications.<br>🤝 I’m looking for help with scalable backend architectures and system design.<br>🌱 I’m currently learning Backend Systems and Next Js.<br>💬 Ask me about Java, DSA, APIs, and web development.<br>⚡ Fun fact : I enjoy turning complex problems into simple, clean solutions.
+I am Samadhan Manjare, a Computer Engineering graduate with a strong interest in software development and frontend engineering. I have hands-on experience building responsive and user-friendly web applications using React.js, JavaScript, HTML, CSS, and Java, along with a solid understanding of SQL and backend fundamentals.
+
+I have completed a Frontend Developer Internship at Next Class, an ed-tech startup, where I worked on improving UI components, integrating APIs, and enhancing overall user experience for real-world applications, including an eCommerce platform and admin panel. I enjoy collaborating with teams, solving problems, and continuously learning new technologies to improve my development skills.
+
+Outside of work, I enjoy exploring new tech trends, binge-watching series, and working on personal projects that strengthen my practical knowledge. I am motivated, adaptable, and eager to grow as a Software Developer while contributing meaningfully to impactful projects.
 
 
 ## 🌐 Socials:
