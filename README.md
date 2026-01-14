@@ -5,6 +5,7 @@ I have completed a Frontend Developer Internship at Next Class, an ed-tech start
 
 Outside of work, I enjoy exploring new tech trends, binge-watching series, and working on personal projects that strengthen my practical knowledge. I am motivated, adaptable, and eager to grow as a Software Developer while contributing meaningfully to impactful projects.
 
+![](https://komarev.com/ghpvc/?username=SamadhanManjare&base=100)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/samadhane.manjare/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samadhaan_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samadhan-manjare-889a29260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samadhanmanjare6789@gmail.com) 
