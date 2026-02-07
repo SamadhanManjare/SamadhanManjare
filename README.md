@@ -20,4 +20,8 @@ Outside of work, I enjoy exploring new tech trends, binge-watching series, and w
 ---
 [![](https://visitcount.itsvg.in/api?id=SamadhanManjare&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📫 Contact
+- Email: **samadhanmanjare6789@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/samadhan-manjare-889a29260/**
+- Location: **Pune, India** (open to remote/relocation)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
